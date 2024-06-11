@@ -4,7 +4,7 @@ I'm a passionate Full Stack MERN Developer with a keen interest in creating dyna
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning advanced cloud deployment techniques and improving my DevOps skills.
+- 🌱 I’m currently learning advanced cloud deployment techniques and improving my blockchain skills.
 - 👯 I’m looking to collaborate on open-source projects and innovative web applications.
 - 🤔 I’m looking for help with exploring new JavaScript frameworks and libraries.
 - 💬 Ask me about JavaScript, React, Node.js, MongoDB, or anything related to web development.
