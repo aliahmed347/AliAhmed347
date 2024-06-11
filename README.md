@@ -40,7 +40,7 @@ I'm a passionate Full Stack MERN Developer with a keen interest in creating dyna
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?aliahmed247=your-github-aliahmed247&show_icons=true&hide_title=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aliahmed347&show_icons=true&hide_title=true)
 
 ## 📂 Projects
 
