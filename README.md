@@ -8,7 +8,7 @@ I'm a passionate Full Stack MERN Developer with a keen interest in creating dyna
 - 👯 I’m looking to collaborate on open-source projects and innovative web applications.
 - 🤔 I’m looking for help with exploring new JavaScript frameworks and libraries.
 - 💬 Ask me about JavaScript, React, Node.js, MongoDB, or anything related to web development.
-- 📫 How to reach me: [ali.ahmed@futuredevsolutions.com](mailto:ali.ahmed@futuredevsolutions.com)
+- 📫 How to reach me: [signalovernoise.co.uk](mailto:ahmed@signalovernoise.co.uk)
 - ⚡ Fun fact: I love solving puzzles and playing chess.
 
 ## 🛠️ Skills
@@ -55,7 +55,7 @@ In this project, I will create an e-commerce store using Mern Stack.
 
 ## 📫 Contact Me
 
-- **Email**: [ali.ahmed@futuredevsolutions.com](mailto:ali.ahmed@futuredevsolutions.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/aliahmed347/)
+- **Email**: [signalovernoise.co.uk](mailto:signalovernoise.co.uk)
+- **LinkedIn**: [aliahmed347](https://www.linkedin.com/in/aliahmed347/)
 
 Feel free to reach out if you have any questions or if you want to collaborate on a project!
