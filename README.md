@@ -56,6 +56,6 @@ In this project, I will create an e-commerce store using Mern Stack.
 ## 📫 Contact Me
 
 - **Email**: [signalovernoise.co.uk](mailto:signalovernoise.co.uk)
-- **LinkedIn**: [aliahmed347](https://www.linkedin.com/in/aliahmed347/)
+- **LinkedIn**: [aliahmeddev1](https://www.linkedin.com/in/aliahmeddev1/)
 
 Feel free to reach out if you have any questions or if you want to collaborate on a project!
